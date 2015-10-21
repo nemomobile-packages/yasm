@@ -1,3 +1,0 @@
-[submodule "yasm"]
-	path = yasm
-	url = git://github.com/yasm/yasm.git
